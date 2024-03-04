@@ -1,2 +1,4 @@
 Bogota
 Bucaramanga
+Cali
+Cartagena
